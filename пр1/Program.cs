@@ -1140,6 +1140,150 @@ namespace пр1
             //}
             //Console.ReadKey();
 
+            //------------------------------                   №4.13
+
+            //Console.WriteLine("Обьем 1 объекта =");
+            //int V1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Масса 1 объекта =");
+            //int m1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Обьем 2 объекта =");
+            //int V2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Масса 2 объекта");
+            //int m2 = int.Parse(Console.ReadLine());
+            //if (m1 / V1 > m2 / V2)
+            //{
+            //    Console.WriteLine("Плотность первого объекта больше");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Плотность второго объекта больше");
+            //}
+            //Console.ReadKey;
+
+            //------------------------------                   №4.14
+
+            //Console.WriteLine("Сопротивление 1 участка");
+            //int R1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Напряжение 1 участка");
+            //int U1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Сопротивление 2 участка");
+            //int R2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Напрядение 2 учатка");
+            //int U2 = int.Parse(Console.ReadLine());
+            //if (U1 / R1 < U2 / R2)
+            //{
+            //    Console.WriteLine("По учткаку 1 протекет меньший ток");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("По учаткаку 2 протекет меньший ток");
+            //}
+            //Console.ReadKey();
+
+            //------------------------------                   №4.15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
