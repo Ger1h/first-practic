@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "пр1": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
